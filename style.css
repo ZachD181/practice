@@ -1,0 +1,19 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: rgb(241, 241, 255);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    color:darkred;
+}
+
+.header{
+    height:50vh;
+    background-image: repeating-linear-gradient();
+}
